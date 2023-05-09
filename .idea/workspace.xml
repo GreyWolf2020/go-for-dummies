@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80826d94-18fa-4819-8a82-91f65e484435" name="Changes" comment="Code along to Go for dummies.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/go-for-dummies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/.idea/chapter_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_01/show_time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/.idea/chapter_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/.idea/chapter_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_12/.idea/chapter_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_12/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_12/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15/.idea/chapter_15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_16/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_16/.idea/chapter_16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_16/REST/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_16/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_16/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_17/.idea/chapter_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_17/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_17/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_17/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_3/.idea/chapter_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_3/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/.idea/chapter_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/.idea/chapter_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/.idea/chapter_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_7/.idea/chapter_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_7/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_7/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8/.idea/chapter_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_8/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9/.idea/chapter_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PXqz0E1CkxQ2fkGPInypKaMDb2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/USR/Documents/grega/software/dev/go/go-for-dummies",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code along to Go for dummies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Code along to Go for dummies." />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
